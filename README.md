@@ -21,7 +21,7 @@ Minha formação combina fundamentos sólidos de tecnologia com uma abordagem cr
 
 ### 🚀 Áreas de Interesse
 
-- Desenvolvimento Web (JavaScript, TypeScript, node.JS, Angular)
+- Desenvolvimento Fullstack (JavaScript, TypeScript, node.JS, Angular)
 - Aplicações interativas com p5.js, Python e C#
 - APIs RESTful e microsserviços
 - UI/UX Design (Figma e XD)
