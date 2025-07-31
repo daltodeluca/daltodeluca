@@ -1,12 +1,10 @@
-## 💻 Dalto de Luca
+## Dalto de Luca
 
-### 💼 Sobre
+### Sobre
 
 Meu nome é Dalto Vinícius de Luca, tenho 22 anos e sou natural do Rio de Janeiro, Brasil. Realizei meus estudos em Portugal, onde concluí o ensino médio com formação técnica em Multimédia. Posteriormente, cursei um ano de Engenharia Informática no Instituto Superior de Engenharia do Porto (ISEP), e atualmente sou finalista do curso Licenciatura em Multimédia na Escola Superior de Media Artes e Design, parte do Instituto Politécnico do Porto.
 
-Minha formação combina fundamentos sólidos de tecnologia com uma abordagem criativa voltada para soluções interativas e visuais. Tenho interesse especial em **desenvolvimento web**, **design de interfaces**, **programação aplicada à mídia digital** e projetos que integrem arte, interatividade e tecnologia.
-
-### 🛠️ Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 <div style="display: inline_block"><br>
     <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -19,7 +17,7 @@ Minha formação combina fundamentos sólidos de tecnologia com uma abordagem cr
 
 <br>
 
-### 🚀 Áreas de Interesse
+### Áreas de Interesse
 
 - Desenvolvimento Fullstack (JavaScript, TypeScript, node.JS, Angular)
 - Aplicações interativas com p5.js, Python e C#
@@ -32,7 +30,7 @@ Minha formação combina fundamentos sólidos de tecnologia com uma abordagem cr
 
 ##
 
-### 📊 Métricas GitHub
+### Estatísticas
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=daltodeluca&show_icons=true&theme=gotham&hide=issues&count_private=true)
 ![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=daltodeluca&layout=compact&theme=gotham)
