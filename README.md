@@ -4,25 +4,6 @@
 
 Meu nome é Dalto Vinícius de Luca, tenho 22 anos e sou natural do Rio de Janeiro, Brasil. Realizei meus estudos em Portugal, onde concluí o ensino médio com formação técnica em Multimédia. Posteriormente, cursei um ano de Engenharia Informática no Instituto Superior de Engenharia do Porto (ISEP), e atualmente sou finalista do curso Licenciatura em Multimédia na Escola Superior de Media Artes e Design, parte do Instituto Politécnico do Porto.
 
-### Tecnologias e Ferramentas
-
-<div style="display: inline_block"><br>
-    <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-    <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div>
-
-<br>
-
-### Áreas de Interesse
-
-- Desenvolvimento Fullstack (JavaScript, TypeScript, node.JS, Angular)
-- Aplicações interativas com p5.js, Python e C#
-- APIs RESTful e microsserviços
-- UI/UX Design (Figma e XD)
 
 <!-- ### Projetos em destaque
 - [Nome do Projeto](link): Descrição objetiva do que o projeto faz e quais tecnologias foram utilizadas.
